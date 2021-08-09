@@ -1,0 +1,5 @@
+apilink=api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+key=aa50cf4f8894bc739abe1218b198258d
+
+apilink=api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=aa50cf4f8894bc739abe1218b198258d
